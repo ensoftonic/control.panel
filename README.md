@@ -1,6 +1,6 @@
 # control panel
 
-[![control panel](gett-detail.png)](https://computersolve.com/what-is-control-panel-in-computer/)
+[![control panel](gett-detail.png)](https://icncomputer.com/what-is-control-panel-in-computer/)
 
 The Control Panel in Microsoft Windows enables a user to change various computer hardware and software features. Settings for the mouse, display, sound, network, and keyboard represent a few examples of what may be modified in the Control Panel.
 
